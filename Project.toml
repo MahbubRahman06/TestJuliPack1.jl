@@ -1,0 +1,4 @@
+name = "TestJuliPack1"
+uuid = "4fad3100-272e-11e9-2c1d-0b6ede362068"
+authors = ["Md Mahbubar Rahman <mrah06@gmail.com>"]
+version = "0.1.0"
